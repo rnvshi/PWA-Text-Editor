@@ -7,7 +7,7 @@ JATE: Just Another Text Editor. A Progressive Web Application (PWA) with offline
   ## Table of Contents
 
   - [Installation](#installation)
-  - [Usage] (#usage)
+  - [Usage](#usage)
   - [License](#license)
 
 ## Installation
